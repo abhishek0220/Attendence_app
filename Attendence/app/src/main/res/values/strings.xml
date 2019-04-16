@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Attendence</string>
+    <string name="enter_date">Enter Date</string>
+    <string name="select">Select</string>
+    <string name="submit">Submit</string>
+    <string name="show_attendence">Show Attendence</string>
+    <string name="developed_by2">Developed By-</string>
+    <string name="abhishek_chaudhary2">Abhishek Chaudhary</string>
+    <string name="_2018ucs0087_iitjammu_ac_in2">2018UCS0087@iitjammu.ac.in</string>
+    <string name="error" />
+    <string name="select_subject">Select Subject</string>
+    <string name="show">Show</string>
+    <string name="developed_by">Developed By-</string>
+    <string name="abhishek_chaudhary">Abhishek Chaudhary</string>
+    <string name="_2018ucs0087_iitjammu_ac_in">2018UCS0087@iitjammu.ac.in</string>
+    <string name="atten" />
+    <string name="percen" />
+    <string name="textpre" />
+</resources>
